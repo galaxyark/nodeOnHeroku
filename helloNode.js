@@ -5,4 +5,4 @@ http.createServer(function(req, res){
 	res.end('Hello Node.js\n');
 }).listen(port);
 
-console.log('Server running at http://127.0.0.1:8000/');
+console.log('Server running at Heroku');
